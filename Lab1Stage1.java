@@ -17,7 +17,7 @@ class Lab1Stage1 {
             i = i + 1;
         }
         
-        /*for (int i = 0; i != allAnimals.length; i++) {
+        /*for (int i = 0; i < allAnimals.length; i++) {
             allAnimals[i].introduceYourself();
         }*/
     }
